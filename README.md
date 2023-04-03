@@ -9,3 +9,6 @@
 
 ## GAN
 - [DALL_E2 인퍼런스](https://github.com/YoongeeYEO/study_note/blob/main/DALL_E2%20inference.ipynb)
+
+## NLP
+- Sequence to Sequence Learning with Neural Networks_2014([논문리뷰](https://velog.io/@yyk9612/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-Sequence-to-Sequence-Learning-with-Neural-Networks2014) / [관련코드])
