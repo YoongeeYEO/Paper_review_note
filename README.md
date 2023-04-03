@@ -12,3 +12,4 @@
 
 ## NLP
 - Sequence to Sequence Learning with Neural Networks_2014([논문리뷰](https://velog.io/@yyk9612/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-Sequence-to-Sequence-Learning-with-Neural-Networks2014) / [관련코드])
+- Transformer - Attention is all you need_2017([논문리뷰](https://velog.io/@yyk9612/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Transformer-Attention-is-all-you-need) / [학습코드](https://github.com/YoongeeYEO/sogang_univ_Teaching_Learning_center/blob/main/Transformer%20%EC%B1%97%EB%B4%87%20%ED%95%99%EC%8A%B5(%ED%95%9C%EA%B5%AD%EC%96%B4).ipynb))
