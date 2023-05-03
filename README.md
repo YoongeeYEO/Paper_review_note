@@ -7,7 +7,7 @@
 ## Object Detection
 - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors_2022([논문리뷰](https://velog.io/@yyk9612/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-YOLOv7-Trainable-bag-of-freebies-sets-new-state-of-the-art-for-real-time-object-detectors2022) / [학습코드](https://drive.google.com/file/d/1A12N7qwWxlHmulF8OwFpr1Au9AJVSgk0/view?usp=sharing))
 
-## 
+## Generation Model
 - [DALL_E2 인퍼런스](https://github.com/YoongeeYEO/study_note/blob/main/DALL_E2%20inference.ipynb)
 - Deep Unsupervised Learning using Nonequilibrium Thermodynamics_2015([논문리뷰](https://velog.io/@yyk9612/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Deep-Unsupervised-Learning-using-Nonequilibrium-Thermodynamics))
 
