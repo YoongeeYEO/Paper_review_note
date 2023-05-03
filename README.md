@@ -4,6 +4,9 @@
 ## Image Classification
 - [MobileNetV3(2019)](https://github.com/YoongeeYEO/study_note/blob/main/MobileNetV3%20paper%20review.ipynb), [학습코드(Google Colab)](https://colab.research.google.com/drive/1qOgjICk_JMSxLSp3yJmzhtbMeh9WRiaZ?usp=sharing)
 
+## Image Segmenation
+- U-Net : Convolutional Networks for Biomedical Image Segmentation(2015)([논문리뷰](https://velog.io/@yyk9612/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-U-Net-Convolutional-Networks-for-Biomedical-Image-Segmentation2015))
+
 ## Object Detection
 - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors_2022([논문리뷰](https://velog.io/@yyk9612/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-YOLOv7-Trainable-bag-of-freebies-sets-new-state-of-the-art-for-real-time-object-detectors2022) / [학습코드](https://drive.google.com/file/d/1A12N7qwWxlHmulF8OwFpr1Au9AJVSgk0/view?usp=sharing))
 
