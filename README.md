@@ -6,6 +6,7 @@
 
 ## Image Segmenation
 - U-Net : Convolutional Networks for Biomedical Image Segmentation(2015)([논문리뷰](https://velog.io/@yyk9612/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-U-Net-Convolutional-Networks-for-Biomedical-Image-Segmentation2015))
+- Semantic segmentation of HeLa cells: An objective comparison between one traditional algorithm and four deep-learning architectures_2020([논문리뷰](https://velog.io/@yyk9612/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Semantic-segmentation-of-HeLa-cells-An-objective-comparison-between-one-traditional-algorithm-and-four-deep-learning-architectures2020))
 
 ## Object Detection
 - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors_2022([논문리뷰](https://velog.io/@yyk9612/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-YOLOv7-Trainable-bag-of-freebies-sets-new-state-of-the-art-for-real-time-object-detectors2022) / [학습코드](https://drive.google.com/file/d/1A12N7qwWxlHmulF8OwFpr1Au9AJVSgk0/view?usp=sharing))
