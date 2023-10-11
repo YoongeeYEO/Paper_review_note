@@ -15,6 +15,7 @@
 - [DALL_E2 인퍼런스](https://github.com/YoongeeYEO/study_note/blob/main/DALL_E2%20inference.ipynb)
 - Deep Unsupervised Learning using Nonequilibrium Thermodynamics_2015([논문리뷰](https://velog.io/@yyk9612/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Deep-Unsupervised-Learning-using-Nonequilibrium-Thermodynamics))
 - Pix2Pix: Image-to-Image Translation with CGAN(2017)([논문리뷰](https://velog.io/@yyk9612/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Pix2Pix-Image-to-Image-Translation-with-CGAN2017))
+- Denoising Diffusion Probabilistic Models(2020)([논문리뷰](https://velog.io/@yyk9612/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Denoising-Diffusion-Probabilistic-Models2020))
 
 ## NLP
 - Sequence to Sequence Learning with Neural Networks_2014([논문리뷰](https://velog.io/@yyk9612/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-Sequence-to-Sequence-Learning-with-Neural-Networks2014) / [관련코드])
